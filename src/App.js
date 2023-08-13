@@ -9,11 +9,11 @@ import { Product } from './Product';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/React-store/",
     element: <BestSellers/>,
   },
   {
-    path: "product/:productId",
+    path: "React-store/product/:productId",
     element: <Product/>,
 },
 ]);
