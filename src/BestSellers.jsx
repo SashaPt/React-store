@@ -15,7 +15,7 @@ export const BestSellers = () => {
   }, []);
 
   const navigateToProductHandler = (id) => {
-    navigate('/React-store/product/' + id)
+    navigate('React-store/product/' + id)
   }
 
   return (
