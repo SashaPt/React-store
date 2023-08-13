@@ -13,7 +13,7 @@ const router = createBrowserRouter([
     element: <BestSellers/>,
   },
   {
-    path: "React-store/product/:productId",
+    path: "product/:productId",
     element: <Product/>,
 },
 ]);

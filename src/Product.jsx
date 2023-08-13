@@ -27,7 +27,7 @@ export const Product = () => {
   return (
     <div>
       <div className="arrowBack">
-        <Link to={'/'}>
+        <Link to={'/React-store/'}>
           <img src={arrow} alt="arrow" />
           Back to Best Seller
         </Link>
@@ -37,7 +37,7 @@ export const Product = () => {
       ) : (
         <div>
           <div className="product">
-            <img src={product.image} alt="picture" />
+            <img src={product.image} alt="" />
             <div className="info">
               <p className="title">{product.title}</p>
               <p className="price">$ {product.price}</p>
