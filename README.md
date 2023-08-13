@@ -1,6 +1,6 @@
 # Deployment
 
-See deployment: [https://sashapt.github.io/React-store]
+See deployment: [https://sashapt.github.io/React-store](https://sashapt.github.io/React-store)
 
 # Getting Started with Create React App
 
